@@ -1,3 +1,4 @@
+import math
 def line():
 
     print("TO DO")
@@ -18,4 +19,3 @@ def line():
     print(f'\nPara la siguiente ecuación:\n\tY = {A}X + {B}')
     print(f'\nDados los siguientes puntos:\n\tP1 ({X1}, {Y1})\n\tP2 ({X2}, {Y2})')
     print(f'\nLa distancia entre ellos es: {D}')
-
